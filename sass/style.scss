@@ -1,0 +1,24 @@
+.container {
+    font-family: 'Raleway', sans-serif;
+    width: 500px;
+    margin: 0 auto;
+    background-color: #55ACEE;
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+}
+
+button,
+a {
+    display: block;
+    border: 1px solid #fff;
+    width: 150px;
+    height: 40px;
+    background-color: #55ACEE;
+    color: #fff;
+    margin: 20px auto;
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+    line-height: 40px;
+    text-decoration: none;
+}
